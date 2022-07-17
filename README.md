@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi , my name Akhmed! I'm frontend developer and I live in Saint Petersburg. 
+<h1 align="center">Have a great day!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhmed-umarov&label=Profile%20views&color=0e75b6&style=flat" alt="akhmed-umarov" /> </p>
 
