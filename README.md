@@ -1,6 +1,8 @@
-### Hi , my name Akhmed! I'm frontend developer and I live in Saint Petersburg. 
+### Hi , my name Akhmed! I'm frontend developer and professional sportsman (judo). I live in Saint Petersburg. 
 
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="100"/>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhmed-umarov&label=Profile%20views&color=0e75b6&style=flat" alt="akhmed-umarov" /> </p>
 
 - All of my projects are available at [https://github.com/akhmed-umarov?tab=repositories](https://github.com/akhmed-umarov?tab=repositories)
