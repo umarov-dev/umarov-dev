@@ -1,4 +1,4 @@
-### Hi , my name Akhmed! I'm frontend developer and professional sportsman (judo). I live in Saint Petersburg. 
+### Hi , my name Akhmed! I'm frontend developer. I live in Saint Petersburg. 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="350"/>
