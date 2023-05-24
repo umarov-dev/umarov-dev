@@ -1,6 +1,10 @@
 ### <h1 align="center">Hi , my name Akhmed! I'm frontend developer. I live in Saint Petersburg. </h1>
-<h3>I’m currently working on <a href="https://github.com/udoski">udoski</a> How to reach me: <a href ="https://t.me/uai_dev">telegram</a></h3>
-<div id="header" align="center">
+<div align="left">
+- 🔭 I’m currently working on <a href="https://github.com/udoski">udoski</a>
+- 📫 How to reach me: <a href ="https://t.me/uai_dev">telegram</a>
+</div>
+
+<div id="header" align="right">
   <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="350"/>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhmed-umarov&label=Profile%20views&color=0e75b6&style=flat" alt="akhmed-umarov" /> </p>
