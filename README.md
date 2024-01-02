@@ -1,9 +1,4 @@
 ### <h1 align="center">Hi , my name Akhmed! I'm frontend developer. I live in Saint Petersburg. </h1>
-<div align="center">
-<p>- 🔭 I’m currently working on <a href="https://github.com/udoski">udoski</a></p>
-<p>- 📫 How to reach me: <a href ="https://t.me/uai_dev">telegram</a></p>
-</div>
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="350"/>
 </div>
