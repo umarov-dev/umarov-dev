@@ -1,15 +1,15 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="350"/>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhmed-umarov&label=Profile%20views&color=0e75b6&style=flat" alt="akhmed-umarov" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umarov-dev&label=Profile%20views&color=0e75b6&style=flat" alt="umarov-dev" /> </p>
 
 - All of my projects are available at [https://github.com/akhmed-umarov?tab=repositories](https://github.com/akhmed-umarov?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/akhmedumarov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akhmedumarov" height="30" width="40" /></a>
-<a href="https://instagram.com/umarovakhmed_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umarovakhmed_" height="30" width="40" /></a>
-<a href="https://t.me/uai_develop" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="uai_develop" height="30" width="30" /></a>
+<a href="https://fb.com/akhmedumarov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umarovdev" height="30" width="40" /></a>
+<a href="https://instagram.com/umarovakhmed_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umarovdev_" height="30" width="40" /></a>
+<a href="https://t.me/uai_dev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="uai_dev" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
